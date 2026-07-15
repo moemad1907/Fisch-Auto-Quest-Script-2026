@@ -1,0 +1,6 @@
+numpy
+psutil
+pynput
+requests
+pywin32
+opencv-python
